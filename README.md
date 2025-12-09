@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Todo App 📝
+A modern **React Todo App** that allows users to add, complete, and delete tasks. Built with **React** and **Tailwind CSS**, with optional MongoDB backend support for persistence.
+Visit Live Project
+**https://advanced-todo-app-wheat.vercel.app/**
 
-## Getting Started
+## 📸 Screenshots
 
-First, run the development server:
+<img width="960" height="435" alt="image" src="https://github.com/user-attachments/assets/6ec945ab-2916-482d-837a-961767eb1799" />
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🚀 Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Add new tasks with a title and description.
+- Mark tasks as **completed** (strikethrough effect).
+- Delete tasks dynamically.
+- Optional MongoDB backend for persistent storage.
+- Fully responsive using **Tailwind CSS**.
+- Easy to extend and integrate with other APIs.
 
-## Learn More
+## Tools Used
 
-To learn more about Next.js, take a look at the following resources:
+![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-14.3.1-black?logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue?logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.3-blue?logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20.6.0-green?logo=node.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-8.48.0-blue?logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-3.13.1-fuchsia?logo=prettier&logoColor=white)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+ **✨ Usage**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+  Click Add Todo to create a new task.
 
-## Deploy on Vercel
+ Enter a title and description in the prompts.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+ Click Done to mark a task as completed.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+ Click Delete to remove a task.
+
+**💡 Author**
+
+ John Oduor Otieno
+
+ GitHub: @JohnM-Oduor
+
+ Portfolio: 
+
+ Email: your.oduorjohn104@gmail.com
